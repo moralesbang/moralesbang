@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project44 as Software Engineer<br>🌱 I’m currently learning about Nest JS<br>💬 Ask me about React and Frontend Stuffs<br>⚡ Fun fact: I'm ever the photgrapher of my gang.
+🔭 I’m currently working on project44 as Software Engineer<br>🌱 I’m currently learning about Data Visualization with D3 and Nest JS<br>💬 Ask me about React and Frontend Stuffs<br>⚡ Fun fact: I'm ever the photgrapher of my gang.
 
 
 ## 🌐 Socials:
