@@ -8,4 +8,4 @@
 
 ### Hi, I'm Milo 👋
 
-Software engineer in close to Medellín, Colombia. I have built most of my career on **React** and **TypeScript**,. Right now building **Wandr** (a walking tracker for wanderers) on the side, and exploring AI-assisted coding and terminal tools (proudly Nvim user).
+Software engineer in close to Medellín, Colombia. Deep knowledge about **React** and **TypeScript**,. Right now building **Wandr** (a walking tracker for wanderers) on the side, and exploring AI-assisted coding and terminal tools (proudly Nvim user).
